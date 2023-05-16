@@ -1,0 +1,30 @@
+Test ishlash dasturini tuzing, bunda :
+
+1) Subject (fan), Question (savol), User , UserTestSolveHistory
+      classlarini OOP conception laridan foydalangan holatda
+      (Encapsulation va hkz) shakllantiring. Dastur bitta admin
+      foydalanuvchi bor bolgan holatda ishga tushsin.
+
+2) Dastur ishga tushganda foyudalanuvchida login bo’lish yoki
+      registratsiyadan otish imkoniyati bo’lsin. Agar login bolgan foydalanuvchi admin bolsa
+      unga quyidagi amallarni bajarish imkoni bo’lsin :
+
+    a) Subject qo’shish.
+    b) Subject lar ro’yxatini ko’rish
+    c) Question qo’shish.
+    d) Question lar ro’yxatini ko’rish
+    e) Userlar ro’yxatini ko’rish
+    f) O’zini parolini o’zgartirish
+
+3) Agar login bolgan yoki registratsiya qilgan foydalanuvchi Abiturient
+      bo’lsa unga quyidagi amallarni bajarish imkoni bo’lsin :
+      (U ham login bo’lganda username va password larni kiritish orqali tizimga kirsin.)
+
+    a) Subject tanlash. Bunda tanlashdan oldin barcha fanlar nomi , questionlar soni, max ball,
+        har bir to’g’ri javob uchun beriladigan ball haqidagi malumotlar ko’rsatilsin.
+    b) Subject tanlashi bilanoq shu fandan testlarni ishlash boshlansin.
+        Oxirgi testni ishlashi bilan natijaga subject nomi , max ball ,
+        abiturient to’plagan ball ko’rsatilsin.
+    c) O’zi tomonidan ishlangan testlari tarixini Subjectlar kesimida ko’ra olsin.
+        Bunda subject nomi , max ball , abiturient to’plagan ball ko’rsatilsin.
+    d) O’zini parolini o’zgartirish
